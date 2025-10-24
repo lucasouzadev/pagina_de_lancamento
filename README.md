@@ -39,7 +39,7 @@ Projeto de landing page com contagem regressiva para o evento utilizando JavaScr
 Clone este repositório:
 
 ```sh
-git clone https://github.com/usuario/ebac_talks.git
+git clone https://github.com/lucasouzadev/pagina_de_lancamento.git
 ```
 
 Ou faça o download do ZIP dos arquivos do projeto.
@@ -68,5 +68,6 @@ Para editar o conteúdo do evento ou data, altere os valores diretamente no arqu
 ---
 
 ## License
+
 
 Licença publicada sob os termos MIT. Veja o arquivo [LICENSE](LICENSE) para mais informações.
