@@ -1,5 +1,4 @@
 // Inicializa AOS
-
 AOS.init({
     duration: 800,
     easing: 'ease',
@@ -17,7 +16,7 @@ window.addEventListener('scroll', () => {
 });
 
 // Data de lançamento
-const releaseDate = new Date('2025-10-24T11:40:42').getTime();
+const releaseDate = new Date('2026-10-24T12:00:00').getTime();
 
 // Função para formatar números com zero à esquerda
 const formatNumber = (number) => {
